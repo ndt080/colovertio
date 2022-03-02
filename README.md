@@ -1,6 +1,5 @@
-# colovertio
-
-This template should help get you started developing with Vue 3 in Vite.
+# Colovertion application
+A web application that allows the user to select and then interactively change the color, while showing its components in several models at the same time.
 
 ## Recommended IDE Setup
 
